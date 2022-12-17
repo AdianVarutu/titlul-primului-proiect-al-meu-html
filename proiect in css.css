@@ -20,7 +20,7 @@ a{
 }
 
 table,tr,th,td{
-    border: 10%;
+    border:solid red 10%;
     padding: 10%;
     margin: 10%;
 }
