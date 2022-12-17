@@ -1,0 +1,16 @@
+
+table,th,td
+
+{
+ border:45px solid rgb(255, 68, 0);
+ margin: 30px ;
+ padding: 39px ;
+}
+tr:nth-child(odd)
+{
+ background-color: beige;
+}
+tr:nth-child(even)
+{
+    background-color: blue;
+}
