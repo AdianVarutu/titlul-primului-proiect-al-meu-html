@@ -1,0 +1,24 @@
+
+table,th,td
+
+{
+ border: 10px;
+ margin: 20px;
+ padding: 40px;
+}
+
+{
+    background-color: olive;
+}
+tr:nth-child(odd)
+{
+    background-color: olive;
+}
+tr:nth-child(even)
+{
+    background-color:palegreen;
+}
+
+ol{
+    
+}
