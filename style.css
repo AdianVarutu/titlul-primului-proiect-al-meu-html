@@ -1,0 +1,15 @@
+nav{
+list-style-type: none;
+}
+
+a{
+    border: 10px solid chartreuse;
+}
+
+a:hover{
+    text-decoration: overline;
+    background-color: rgb(125, 175, 204);
+    font-size:large;
+    font-weight:lighter;
+    font-variant:unset;
+}
